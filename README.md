@@ -5,6 +5,7 @@
 - [Healthy food shop](https://mrbiosh.github.io/Module02-Shop/dist/)
 - [Online - GYM site](https://mrbiosh.github.io/Module01_Diplom/index.html)
 - [Burger shop](https://mrbiosh.github.io/Module01_Burger/index.html)
+- [Portfolio](https://mrbiosh.github.io/Module02-Diplom/dist/)
 #### Мой ВК: [ссылка тут](https://vk.com/realconst)
 ###### Связь со мной: MaZaHaKa1695@gmail.com 💬
 <!--
