@@ -7,7 +7,7 @@
 - [Burger shop](https://mrbiosh.github.io/Module01_Burger/index.html)
 - [Portfolio](https://mrbiosh.github.io/Module02-Diplom/dist/)
 #### Мой ВК: [ссылка тут](https://vk.com/realconst)
-###### Связь со мной: MaZaHaKa1695@gmail.com 💬
+###### Связь со мной: komysovpv@gmail.com 💬
 <!--
 **MrBIOsh/MrBIOsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
