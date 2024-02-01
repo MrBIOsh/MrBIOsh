@@ -6,6 +6,9 @@
 - [Online - GYM site](https://mrbiosh.github.io/Module01_Diplom/index.html)
 - [Burger shop](https://mrbiosh.github.io/Module01_Burger/index.html)
 - [Portfolio](https://mrbiosh.github.io/Module02-Diplom/dist/)
+- [ToDO List](https://mrbiosh.github.io/ToDo_List/index.html)
+- [Clock on Canvas](https://mrbiosh.github.io/Clock_Canvas/index.html)
+- [Ba-Design](https://mrbiosh.github.io/Ba-Design/index.html)
 #### Мой ВК: [ссылка тут](https://vk.com/realconst)
 ###### Связь со мной: komysovpv@gmail.com 💬
 <!--
